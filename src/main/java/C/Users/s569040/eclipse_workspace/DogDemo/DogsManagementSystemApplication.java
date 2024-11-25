@@ -1,18 +1,13 @@
-package com.bandiClasses.DMS;
+package C.Users.s569040.eclipse_workspace.DogDemo;
 
 import org.springframework.boot.SpringApplication;
-
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-/*
- * @author Akanksha Mamidiga
- * 
- */
 
 @SpringBootApplication
-public class DogManagementSystemApplication {
+public class DogsManagementSystemApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DogManagementSystemApplication.class, args);
+		SpringApplication.run(DogsManagementSystemApplication.class, args);
 	}
 
 }

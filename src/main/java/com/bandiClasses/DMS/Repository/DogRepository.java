@@ -7,7 +7,7 @@ import org.springframework.data.repository.CrudRepository;
 import com.bandiClasses.DMS.Models.Dog;
 
 /*
- * @author Polasani Ashwitha Reddy (s566642)
+ * @author Akanksha Mamidiga
  * 
  */
 

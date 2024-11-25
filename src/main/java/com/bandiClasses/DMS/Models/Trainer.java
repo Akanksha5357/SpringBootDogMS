@@ -3,7 +3,7 @@ package com.bandiClasses.DMS.Models;
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
 /*
- * @author Polasani Ashwitha Reddy (s566642)
+ * @author Akanksha Mamidiga
  * 
  */
 @Entity

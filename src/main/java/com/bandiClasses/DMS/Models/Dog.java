@@ -6,7 +6,7 @@ import jakarta.persistence.ManyToOne;
 
 
 /*
- * @author Polasani Ashwitha Reddy (s566642)
+ * @author Akanksha Mamidiga
  * 
  */
 

@@ -11,7 +11,7 @@ import com.bandiClasses.DMS.Models.Trainer;
 import com.bandiClasses.DMS.Repository.DogRepository;
 import com.bandiClasses.DMS.Repository.TrainerRepository;
 /*
- * @author Polasani Ashwitha Reddy (s566642)
+ * @author Akanksha Mamidiga
  * 
  */
 
